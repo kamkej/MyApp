@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/julio/NativeScript-Projects/MyApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/logo.png",
+        "source": "/home/julio/NativeScript-Projects/MyApp/platforms/android/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/julio/NativeScript-Projects/MyApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/icon.png",
+        "source": "/home/julio/NativeScript-Projects/MyApp/platforms/android/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/julio/NativeScript-Projects/MyApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/background.png",
+        "source": "/home/julio/NativeScript-Projects/MyApp/platforms/android/src/main/res/drawable-xxxhdpi/background.png"
+    }
+]
