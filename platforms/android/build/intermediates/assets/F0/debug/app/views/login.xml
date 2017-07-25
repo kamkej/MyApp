@@ -1,0 +1,6 @@
+<page loaded="loaded">
+    <stackLayout>
+                <Label text="My app "/>
+              <Button text="Sign in" tap="signIn"/>
+    </stackLayout>
+</page>

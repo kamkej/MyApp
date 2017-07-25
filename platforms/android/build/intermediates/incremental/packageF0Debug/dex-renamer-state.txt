@@ -1,4 +1,4 @@
-#Mon Jul 17 16:45:01 BRT 2017
+#Mon Jul 24 21:05:31 BRT 2017
 base.0=/home/julio/NativeScript-Projects/MyApp/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/home/julio/NativeScript-Projects/MyApp/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex
